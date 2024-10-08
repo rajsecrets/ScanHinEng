@@ -1,6 +1,3 @@
-Here is the `README.md` code for your project:
-
-```markdown
 # OCR & Keyword Search Web Application
 
 This project is a **web-based prototype** that demonstrates Optical Character Recognition (OCR) on an uploaded image containing text in both **Hindi and English**. The application also provides a basic keyword search functionality to highlight the searched words from the extracted text. The web app is deployed and accessible via a live URL.
