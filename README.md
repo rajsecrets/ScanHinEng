@@ -3,7 +3,7 @@
 This project is a **web-based prototype** that demonstrates Optical Character Recognition (OCR) on an uploaded image containing text in both **Hindi and English**. The application also provides a basic keyword search functionality to highlight the searched words from the extracted text. The web app is deployed and accessible via a live URL.
 
 # Showcase 
-https://huggingface.co/spaces/rajsecrets0/Hindi-English-OCR
+Live Demo: https://huggingface.co/spaces/rajsecrets0/Hindi-English-OCR
 ![Screenshot_6-11-2024_93553_huggingface co](https://github.com/user-attachments/assets/b29743ec-a133-4096-a3a3-0ead3b1754fc)
 
 
