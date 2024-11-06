@@ -4,7 +4,7 @@ This project is a **web-based prototype** that demonstrates Optical Character Re
 
 # Showcase 
 https://huggingface.co/spaces/rajsecrets0/Hindi-English-OCR
-http![Screenshot_6-11-2024_93553_huggingface co](https://github.com/user-attachments/assets/b29743ec-a133-4096-a3a3-0ead3b1754fc)
+![Screenshot_6-11-2024_93553_huggingface co](https://github.com/user-attachments/assets/b29743ec-a133-4096-a3a3-0ead3b1754fc)
 
 
 ## 📋 Table of Contents
